@@ -1,5 +1,8 @@
 # Tic-Tac-Toe
-Android App for user to play tic tac toe
+Android App for user to play tic tac toe 
+
+# Tic-Tac-Toe Development
+It follow MVVM Pattern and Test-Driven Development
 
 
 # Basic Understanding Of MVVM : 
@@ -13,7 +16,7 @@ it devided into 3 parts
 
 basically ViewModel have no idea who is observing 
 
-
+# Test-Driven Development (TDD) :
 
 # App Screens : 
 it contain 4 screens
