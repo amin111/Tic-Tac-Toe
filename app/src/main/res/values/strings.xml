@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="app_logo">Tic Tac Toe Logo</string>
+    <string name="player1_hint">Player 1</string>
+    <string name="player2_hint">Player 2</string>
+    <string name="game_dialog_title">New Game</string>
+    <string name="done">Done</string>
+    <string name="exit">Exit</string>
+    <string name="player1_turn">Player 1 turn</string>
+    <string name="exit_note">Press once again to exit!</string>
+    <string name="game_dialog_empty_name">Player Name empty</string>
+    <string name="game_dialog_same_names">Same Player</string>
+    <string name="game_end_dialog_headline">Game winner is</string>
+</resources>
