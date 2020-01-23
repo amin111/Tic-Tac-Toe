@@ -18,6 +18,12 @@ basically ViewModel have no idea who is observing
 
 # Test-Driven Development (TDD) :
 
+TDD is a software-development process. You can apply TDD wherever you practice software development, it described as Red-Green-Refactor. It’s a process in which you write the tests that specify the code you’re going to write before you start writing any of the code.
+
+1. Instrumentation tests are for the parts of your code that are dependent on the Android framework but that do not require the UI
+
+2. Unit test, It’s generally concerned with one class at a time, testing one function at a time. Unit tests typically run the fastest out of the different kinds of tests, because they are small and independent of the Android framework and so do not need to run on a device or emulator. JUnit is usually used to run these tests.
+
 # App Screens : 
 it contain 4 screens
 
